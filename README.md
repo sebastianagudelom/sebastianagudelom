@@ -44,7 +44,6 @@ Busco oportunidades para **aprender y aportar en entornos profesionales**, desar
 | **MediApp-Backend** | Java (Spring Boot) | Backend para gestión de citas y pacientes médicos, con autenticación y roles de usuario. |
 | **Bloqueo-App** | Python / Django | Aplicación web enfocada en la gestión de accesos y control de usuarios en entornos restringidos. |
 
-📌 Si alguno te interesa, ¡podemos revisar roadmap, mejoras o colaboraciones!
 
 ---
 
@@ -53,13 +52,6 @@ Busco oportunidades para **aprender y aportar en entornos profesionales**, desar
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebastianagudelo&show_icons=true&theme=tokyonight" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianagudelo&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
-### 🐍 Snake Contribution Graph
-<p align="center">
-  <img src="https://github.com/sebastianagudelo/sebastianagudelo/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
 ---
