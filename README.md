@@ -50,8 +50,8 @@ Busco oportunidades para **aprender y aportar en entornos profesionales**, desar
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianagudelo&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianagudelo&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastianagudelom&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianagudelom&layout=compact&theme=tokyonight" height="150">
 </p>
 
 ---
